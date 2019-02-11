@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 2,
   "targets": {
     ".NETCoreApp,Version=v2.1": {
       "Microsoft.NETCore.App/2.1.0": {
@@ -203,16 +203,13 @@
         },
         "runtime": {
           "lib/netstandard1.0/_._": {}
-        },
-        "build": {
-          "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       }
     }
   },
   "libraries": {
     "Microsoft.NETCore.App/2.1.0": {
-      "sha512": "JNHhG+j5eIhG26+H721IDmwswGUznTwwSuJMFe/08h0X2YarHvA15sVAvUkA/2Sp3W0ENNm48t+J7KTPRqEpfA==",
+      "sha512": "mVxL8khUMyl0L+MkyY0SLhZU13Z+KoUCcCTDC1MZKaegUVbAuaEzqX0VyGJ5U1lyo8fh6ryJPbsBPJww6qcKpw==",
       "type": "package",
       "path": "microsoft.netcore.app/2.1.0",
       "files": [
@@ -478,7 +475,7 @@
       ]
     },
     "Microsoft.NETCore.DotNetAppHost/2.1.0": {
-      "sha512": "vMn8V3GOp/SPOG2oE8WxswzAWZ/GZmc8EPiB3vc2EZ6us14ehXhsvUFXndYopGNSjCa9OdqC6L6xStF1KyUZnw==",
+      "sha512": "cZiASE81rksPJsGJ04hd/uEn6guNGAoqNsrzE/DP6AaNRPCHwTe6nZvHd4uAPj3MaVRQ3U0c6cRycMaHCYLPUQ==",
       "type": "package",
       "path": "microsoft.netcore.dotnetapphost/2.1.0",
       "files": [
@@ -492,7 +489,7 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostPolicy/2.1.0": {
-      "sha512": "vBUwNihtLUVS2HhO6WocYfAktRmfFihm6JB8/sJ53caVW+AelvbnYpfiGzaZDpkWjN6vA3xzOKPu9Vu8Zz3p8Q==",
+      "sha512": "JHyN4ibWkJy/2HlqHnUXBmcpzZfIhCFw7uGqWU5fyL7mzGq5E5vjCHChpFqPzRugM2QS3q31re6CAVzFBzTMqw==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostpolicy/2.1.0",
       "files": [
@@ -506,7 +503,7 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostResolver/2.1.0": {
-      "sha512": "o0PRql5qOHFEY3d1WvzE+T7cMFKtOsWLMg8L1oTeGNnI4u5AzOj8o6AdZT3y2GxFA1DAx7AQ9qZjpCO2/bgZRw==",
+      "sha512": "d+V3yHIMimz3m4MkecBtIrf1NI1oPUez5eaAXbVSWqNyFUuTeBeolYwA3yCYeKCS0zDkV0QjXEOaHd0pjujOZA==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostresolver/2.1.0",
       "files": [
@@ -520,7 +517,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.1.0": {
-      "sha512": "ok+RPAtESz/9MUXeIEz6Lv5XAGQsaNmEYXMsgVALj4D7kqC8gveKWXWXbufLySR2fWrwZf8smyN5RmHu0e4BHA==",
+      "sha512": "aSTPL94NloSiQVL5Len8wbjFKOnoAX/vOh3s3DF6g3c7GUUMLCDvnBhmA72M2iN2AedyA8hpr7m89kzSAKUnJQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.1.0",
       "files": [
@@ -537,7 +534,7 @@
       ]
     },
     "Microsoft.NETCore.Targets/2.1.0": {
-      "sha512": "x188gIZXOwFXkPXyGavEcPGcR6RGvjFOES2QzskN4gERZjWPN34qhRsZVMC0CLJfQLGSButarcgWxPPM4vmg0w==",
+      "sha512": "R+z1NrmXptbA6maCVVPcJ9xrCjUZFGEW1CHQeCqOyRni6PFxANYjiEjDBAK7wQUdmdZFy3xKJYUY0qhpb+hSLQ==",
       "type": "package",
       "path": "microsoft.netcore.targets/2.1.0",
       "files": [
@@ -554,7 +551,7 @@
       ]
     },
     "NETStandard.Library/2.0.3": {
-      "sha512": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "sha512": "R73gEjqCkI2Nw/IlN8QvcgPNklqQiPowp47JwvW0Bnp/RZnjN4UrJwEvWVJWRK1MsQ+HIfGe9i4aQlfK+ei9jA==",
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
@@ -689,38 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Maxi\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Maxi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maxi\\Documents\\PC - Maxi\\TEST - JUAN\\WordFinderTask\\WordFinderTask\\WordFinderTask.csproj",
+      "projectUniqueName": "C:\\Users\\Maxi\\Documents\\PC - Maxi\\TEST - JUAN\\test\\WordFinderTaks\\WordFinderTask\\WordFinderTask.csproj",
       "projectName": "WordFinderTask",
-      "projectPath": "C:\\Users\\Maxi\\Documents\\PC - Maxi\\TEST - JUAN\\WordFinderTask\\WordFinderTask\\WordFinderTask.csproj",
-      "packagesPath": "C:\\Users\\Maxi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maxi\\Documents\\PC - Maxi\\TEST - JUAN\\WordFinderTask\\WordFinderTask\\obj\\",
+      "projectPath": "C:\\Users\\Maxi\\Documents\\PC - Maxi\\TEST - JUAN\\test\\WordFinderTaks\\WordFinderTask\\WordFinderTask.csproj",
+      "outputPath": "C:\\Users\\Maxi\\Documents\\PC - Maxi\\TEST - JUAN\\test\\WordFinderTaks\\WordFinderTask\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
-      "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
-        "https://api.nuget.org/v3/index.json": {}
-      },
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {}
         }
-      },
-      "warningProperties": {
-        "warnAsError": [
-          "NU1605"
-        ]
       }
     },
     "frameworks": {
@@ -728,15 +710,10 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "[2.1.0, )",
+            "version": "2.1",
             "autoReferenced": true
           }
-        },
-        "imports": [
-          "net461"
-        ],
-        "assetTargetFallback": true,
-        "warn": true
+        }
       }
     }
   }

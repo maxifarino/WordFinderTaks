@@ -15,3 +15,8 @@ C:\Users\Maxi\Documents\PC - Maxi\TEST - JUAN\WordFinderTask\UnitTestWordFinderT
 C:\Users\Maxi\Documents\PC - Maxi\TEST - JUAN\WordFinderTask\UnitTestWordFinderTsk\bin\Debug\netcoreapp2.1\WordFinderTask.dll
 C:\Users\Maxi\Documents\PC - Maxi\TEST - JUAN\WordFinderTask\UnitTestWordFinderTsk\bin\Debug\netcoreapp2.1\WordFinderTask.pdb
 C:\Users\Maxi\Documents\PC - Maxi\TEST - JUAN\WordFinderTask\UnitTestWordFinderTsk\obj\Debug\netcoreapp2.1\UnitTestWordFinderTsk.csproj.CopyComplete
+C:\Users\Maxi\Documents\PC - Maxi\TEST - JUAN\test\WordFinderTaks\UnitTestWordFinderTsk\bin\Debug\netcoreapp2.1\UnitTestWordFinderTsk.deps.json
+C:\Users\Maxi\Documents\PC - Maxi\TEST - JUAN\test\WordFinderTaks\UnitTestWordFinderTsk\bin\Debug\netcoreapp2.1\UnitTestWordFinderTsk.runtimeconfig.json
+C:\Users\Maxi\Documents\PC - Maxi\TEST - JUAN\test\WordFinderTaks\UnitTestWordFinderTsk\bin\Debug\netcoreapp2.1\UnitTestWordFinderTsk.runtimeconfig.dev.json
+C:\Users\Maxi\Documents\PC - Maxi\TEST - JUAN\test\WordFinderTaks\UnitTestWordFinderTsk\obj\Debug\netcoreapp2.1\UnitTestWordFinderTsk.csprojResolveAssemblyReference.cache
+C:\Users\Maxi\Documents\PC - Maxi\TEST - JUAN\test\WordFinderTaks\UnitTestWordFinderTsk\obj\Debug\netcoreapp2.1\UnitTestWordFinderTsk.AssemblyInfo.cs
